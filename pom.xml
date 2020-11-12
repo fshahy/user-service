@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>fshahy</groupId>
-	<artifactId>delifery-registration-service</artifactId>
+	<artifactId>delifery-user-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>registration-service</name>
-	<description>My Registration Server</description>
+	<name>DeliFery User Service</name>
+	<description>Prodvides User for DeliFery Microservices</description>
 
 	<properties>
 		<java.version>11</java.version>

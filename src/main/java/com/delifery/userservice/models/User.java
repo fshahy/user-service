@@ -1,4 +1,4 @@
-package com.fritz.registrationserver.models;
+package com.delifery.userservice.models;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

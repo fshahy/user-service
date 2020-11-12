@@ -1,4 +1,4 @@
-package com.fritz.registrationserver.controllers;
+package com.delifery.userservice.controllers;
 
 import javax.validation.Valid;
 
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.fritz.registrationserver.models.User;
-import com.fritz.registrationserver.repositories.UserRepository;
+import com.delifery.userservice.models.User;
+import com.delifery.userservice.repositories.UserRepository;
 
 @RestController
 @RequestMapping
